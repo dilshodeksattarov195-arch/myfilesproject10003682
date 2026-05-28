@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configealculate",
+        "uuid": 2271794,
+        "checksum": "1isyzq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
